@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on building my personal portfolio website.
+- ⚡ Fun fact: 
+   * I enjoy swimming.
+   * I am a developer who is powered by plants.
