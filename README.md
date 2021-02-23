@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on building my personal portfolio website.
-- 🌱 I’m currently learning React and Git.
+- 🌱 I’m currently learning React Hooks and Git.
 - 📫 How to reach me: jasoncodeuk@gmail.com
 - ⚡ Fun fact: 
    * I enjoy swimming.
