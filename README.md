@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on building a React task tracker.
-- 🌱 I’m currently learning React Hooks and Git.
+- 🌱 I’m currently learning Redux and Redux Thunk.
 - 📫 How to reach me: jasoncodeuk@gmail.com
 - ⚡ Fun fact: 
    * I enjoy swimming.
