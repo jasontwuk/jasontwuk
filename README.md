@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building a React task tracker.
 - 🌱 I’m currently learning Redux and Redux Thunk.
 - 📫 How to reach me: jasoncodeuk@gmail.com
 - ⚡ Fun fact: 
