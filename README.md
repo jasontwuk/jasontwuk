@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Redux and Redux Thunk.
+- 🌱 I’m currently learning Node.js.
 - 📫 How to reach me: jasoncodeuk@gmail.com
 - ⚡ Fun fact: 
    * I enjoy swimming.
